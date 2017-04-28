@@ -11,15 +11,6 @@ change 3
 <<<<<<< HEAD
 Change 4
 
-Change 5
-=======
-Change 2
->>>>>>> parent of 1b25e54... change3 in file1
-=======
-Change 2
->>>>>>> parent of 1b25e54... change3 in file1
-=======
-Change 4
->>>>>>> parent of afa06d5... change 5 in file1
+change for bug123
 
-change for branch bug123
+change for bug456
