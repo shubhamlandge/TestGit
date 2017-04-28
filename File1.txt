@@ -11,6 +11,8 @@ change 3
 <<<<<<< HEAD
 Change 4
 
-change for bug123
+change final for bug123
 
-change for bug456
+change5 for bug456
+
+change6 for bug456
